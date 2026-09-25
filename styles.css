@@ -1733,7 +1733,7 @@ main,
   }
 
   .title-main {
-    font-size: clamp(4.6rem, 24vw, 7.2rem);
+    font-size: clamp(4rem, 20vw, 6.5rem);
   }
 
   .hero-bottom {
